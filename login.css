@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    color: rgb(229, 255, 0);
+}
+
+body{
+    background-image: url(../tirumala\ 1.jpg);
+}
+button {
+    background-color: black;
+    
+
+}
+
+button:hover{
+    background-color: rgb(25, 0, 255);
+   
+}
+
+div{
+    text-align:center;
+    display: flex;
+    justify-content: space-around;
+    padding:auto;
+    background-color: rgb(221, 99, 0);
+    color: rgb(255, 174, 0);    
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color:aqua;
+    font-size:larger;
+}
+
+button{
+    color: aqua;
+}
+span{
+   
+    background-color: black;
+    color: black;
+   
+    
+
+}
+
+
